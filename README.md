@@ -69,6 +69,11 @@ The project highlights skills in data cleaning, visualization, and dashboard sto
 
 ---
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
 ## 🌟 About Me
 
 Hi there! I'm **Aniket Tripathi**. I'm an aspiring Data Engineer with hands-on experience in building scalable data pipelines, automating workflows, and driving insights using big data technologies and BI tools. Strong analytical skills and a passion for optimizing data-driven decision-making.
