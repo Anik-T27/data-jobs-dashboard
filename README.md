@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page1](/docs/page1.png)
+![Dashboard Page1](/Docs/Page1.png)
 
 [View interactive dashboard here on the Power BI Service](https://app.powerbi.com/links/itGl215Kws?ctid=1433b73a-31ec-4dcc-a758-58e7fb577f0a&pbi_source=linkShare)
 
