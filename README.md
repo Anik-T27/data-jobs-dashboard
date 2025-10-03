@@ -13,7 +13,7 @@ The project showcases an interactive Power BI dashboard intended for the analysi
 The goal behind this project lies in providing actionable insights for job seekers, recruiters, and analysts by visually representing critical job metrics such as salary, demand trends, and required skills.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](/Dashboard/project_1 dashboard.pbix)
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](/Dashboard/dashboard.pbix)
 
 ## Skills Showcased
 While building this dashboard, I worked on several core Power BI skills:
