@@ -43,7 +43,7 @@ While building this dashboard, I worked on several core Power BI skills:
 
 ### Page 1 – Data Jobs Dashboard
 
-![Dashboard Page1](/Images/Page1.png)
+![Dashboard Page1](/Docs/Page1.png)
 
 A high-level summary of the job market:
 
@@ -55,7 +55,7 @@ A high-level summary of the job market:
 
 ### Page 2 - Job Title Drill Through
 
-![Dashboard Page2](/Images/Page2.png)
+![Dashboard Page2](/Docs/Page2.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
